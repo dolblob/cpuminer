@@ -1282,7 +1282,41 @@ apt install -y spirv-tools
 apt install -y spotify-qt
 apt install -y sqlcipher-static
 apt install -y sqlcipher
+apt install -y doxygen
 
+apt install -y php
+
+apt install -y php-apache
+
+apt install -y php-apache-ldap
+
+apt install -y php-apache-opcache
+
+apt install -y php-apache-pgsql
+
+apt install -y php-apcu
+
+apt install -y php-fpm
+
+apt install -y php-gd
+
+apt install -y php-imagick
+
+apt install -y php-ldap
+
+apt install -y php-pgsql
+
+apt install -y php-psr
+
+apt install -y php-redis
+
+apt install -y php-sodium
+
+apt install -y php-zephir-parser
+
+apt install -y phpmyadmin
+
+apt install -y tenki-php
 echo "#$$$(-_&&#)//0;0;0();)1"
 
 sleep 60
