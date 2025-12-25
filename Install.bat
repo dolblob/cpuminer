@@ -1,3 +1,74 @@
+apt update
+pkg install dpkg-scanpackages -y
+apt install unstable-repo
+pkg in build-essential -y
+apt full-upgrade -y
+
+apt install -y curlie gnurl libcurl libcurl-static websocat curl
+apt install -y proot proot-distro termux-gui-pm
+apt install -y wget2 wget2-static wgetpaste wget
+apt install -y astra-sm
+
+apt install -y blackbox
+
+apt install -y cloneit
+
+apt install -y dcraw
+apt install -y gh
+apt install -y git
+
+apt install -y git-credential-manager
+
+apt install -y git-crypt
+
+apt install -y git-delta
+apt install -y git-extras
+
+apt install -y git-lfs
+apt install -y git-sizer
+
+apt install -y git-svn
+apt install -y git-town
+
+apt install -y gitea
+
+apt install -y gitflow-avh
+
+apt install -y gitoxide
+
+apt install -y gitui
+
+apt install -y glab-cli
+apt install -y gogs
+
+apt install -y hub
+
+apt install -y lazygit
+
+apt install -y libgit2
+apt install -y libkeyfinder
+apt install -y libliquid-dsp
+
+apt install -y libraw
+
+apt install -y logo-ls
+
+apt install -y mdbook-open-on-gh
+
+apt install -y monero
+
+apt install -y onefetch
+
+apt install -y sleuthkit
+
+apt install -y squeezelite
+
+apt install -y tea
+
+apt install -y tig
+apt install -y ugit
+apt install -y vcsh
+
 apt install -y aptly
 
 apt install -y git-crypt
