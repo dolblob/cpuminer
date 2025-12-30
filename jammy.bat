@@ -1,3 +1,5 @@
+apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ libtool gcc yasm flex joe jam
+
 apt install -y android-androresolvd
 
 apt install -y arch-install-scripts
