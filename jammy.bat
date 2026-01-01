@@ -86,6 +86,60 @@ apt install -y proftpd-mod-vroot
 
 apt install -y proot
 
+
+apt install -y fail2ban
+
+apt install -y ftpd
+
+apt install -y proftpd-basic
+
+apt install -y proftpd-core
+
+apt install -y proftpd-dev
+
+apt install -y proftpd-doc
+
+apt install -y proftpd-mod-autohost
+
+apt install -y proftpd-mod-case
+
+apt install -y proftpd-mod-clamav
+
+apt install -y proftpd-mod-counter
+
+apt install -y proftpd-mod-crypto
+
+apt install -y proftpd-mod-fsync
+
+apt install -y proftpd-mod-geoip
+
+apt install -y proftpd-mod-geoip2
+
+apt install -y proftpd-mod-ldap
+
+apt install -y proftpd-mod-msg
+
+apt install -y proftpd-mod-mysql
+
+apt install -y proftpd-mod-odbc
+
+apt install -y proftpd-mod-pgsql
+
+apt install -y proftpd-mod-proxy
+
+apt install -y proftpd-mod-snmp
+
+apt install -y proftpd-mod-sqlite
+
+apt install -y proftpd-mod-statsd
+
+apt install -y proftpd-mod-tar
+
+apt install -y proftpd-mod-vroot
+
+apt install -y proftpd-mod-wrap
+
+apt install -y resource-agents-extra
 apt install -y pure-ftpd
 
 apt install -y pure-ftpd-ldap
