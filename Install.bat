@@ -1,5 +1,5 @@
 apt update
-pkg install dpkg-scanpackages -y
+pkg install dpkg -y
 apt install unstable-repo
 pkg in build-essential -y
 apt full-upgrade -y
