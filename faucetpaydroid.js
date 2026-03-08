@@ -25,7 +25,7 @@
     LTC: '0x8da0990f87b5e61f98ad8c7ba210860ed64ac442', // Litecoin
     ETH: '0x8da0990f87b5e61f98ad8c7ba210860ed64ac442', // Ethereum
     DASH: '0x8da0990f87b5e61f98ad8c7ba210860ed64ac442', // Dash
-    TRX: 'TBENFAimdPqAi3Dd2MMeN8JkK2VBq8zQ4D', // Tron
+    TRX: '0x8da0990f87b5e61f98ad8c7ba210860ed64ac442', // Tron
     SOL: '0x8da0990f87b5e61f98ad8c7ba210860ed64ac442', // Solana
   };
 
