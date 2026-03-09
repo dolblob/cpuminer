@@ -32,7 +32,7 @@ apt install -y libzmat1
 apt install -y lz4
 
 apt install -y lz4json
-apt install -y matlab-zmat
+
 
 apt install -y mspdebug
 
