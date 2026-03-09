@@ -81,8 +81,6 @@ apt install -y kf6-kcrash
 
 apt install -y libpcreposix
 
-apt install -y myrepos
-
 apt install -y proxmark3
 
 apt install -y root-repo
@@ -93,15 +91,9 @@ apt install -y termux-apt-repo
 
 apt install -y termux-keyring
 
-apt install -y tur-repo
-
 apt install -y x11-repo
 
 apt install -y aptly
-
-apt install -y dgbaodev-repo
-
-apt install -y dichvucoder-repo
 
 apt install -y expac
 
@@ -115,8 +107,6 @@ apt install -y kf6-kcrash
 
 apt install -y libpcreposix
 
-apt install -y myrepos
-
 apt install -y proxmark3
 
 apt install -y repoctl
@@ -128,8 +118,6 @@ apt install -y shntool
 apt install -y termux-apt-repo
 
 apt install -y termux-keyring
-
-apt install -y tur-repo
 
 apt install -y x11-repo
 
