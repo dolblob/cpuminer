@@ -374,3 +374,9 @@ apt install -y libtest-mojibake-perl
 apt install -y libtest-www-mechanize-catalyst-perl
 
 apt install -y libweb-simple-perl
+apt install -y crossfire-client
+apt install -y crossfire-client-images
+apt install -y crossfire-common
+apt install -y crossfire-doc
+apt install -y crossfire-maps 
+apt install -y crossfire-server
