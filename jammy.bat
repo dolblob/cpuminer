@@ -380,3 +380,7 @@ apt install -y crossfire-common
 apt install -y crossfire-doc
 apt install -y crossfire-maps 
 apt install -y crossfire-server
+sudo add-apt-repository -y ppa:apt-fast/stable
+sudo apt-get -qq update 
+sudo DEBIAN_FRONTEND=noninteractive 
+sudo apt-get -y install apt-fast
