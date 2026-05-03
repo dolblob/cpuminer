@@ -1374,12 +1374,9 @@ apt install -y php-zephir-parser
 apt install -y phpmyadmin
 
 apt install -y tenki-php
-echo "#$$$(-_&&#)//0;0;0();)1"
 
-sleep 60
+apt install -y zeronet
+apt remove -y zeronet
+apt install -y manim
 
-termux-reload-settings
-
-termux-change-repo
-
-cat -t ~/cpuminer/round.cow | lolcat
+apt install -y 0verkill 2048-c angband brogue bsd-games cavez-of-phear csol curseofwar dmagnetic dopewars frotz game-music-emu game-music-emu-static glulxe gnugo gnushogi gnuski greed libchipmunk moon-buggy moria nethack npush nsnake nudoku pacman4console panda3d rgbds robotfindskitten sssnake tty-solitaire vgmstream cowsay dbus gotify libgmime libksba libmd libmsgpack mosquitto openmpi pingme python-msgpack redis sendxmpp steghide valkey acr alass autoconf autoconf-archive autojump automake autossh et expect prover9 rust-bindgen sabnzbd step-cli xorg-util-macros parallel rush botan3 codecrypt cointop cryptopp cryptopp-static libbcprov-java libgcrypt libksba libnettle libolm libsodium libtomcrypt mbedtls nettle openssl openssl-tool python-cryptography python-pycryptodomex seccure signify tergent xxhash
