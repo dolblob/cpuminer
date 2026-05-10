@@ -1,0 +1,1 @@
+./cpuminer --algo=sha256d --url=stratum+tcp://bs.poolbinance.com:3333 --user=dolBlob01.001 --pass=123456
