@@ -1,0 +1,74 @@
+pip install blockchain
+pip install abstract-blockchain
+pip install antchain-blockchain
+pip install apai3799-blockchain
+pip install chik-blockchain
+pip install easy-blockchain
+pip install mastercard-blockchain
+pip install django-blockchain
+pip install estudos-blockchain
+pip install flora-blockchain
+pip install llama-blockchain
+pip install mcp-blockchain
+pip install rolls-blockchain
+pip install salvia-blockchain
+pip install simple-blockchain
+pip install simply-blockchain
+pip install spare-blockchain
+pip install stor-blockchain
+pip install blockchain-apis
+pip install blockchain-certificates
+pip install bitcoin
+pip install bitcoin-cli
+pip install bitcoin-client
+pip install bitcoin-dca
+pip install bitcoin-ecc
+pip install bitcoin-tools
+pip install bitcoin-usb
+pip install bitcoin-utils
+pip install bitcoin-value
+pip install bitcoin-xyz
+pip install bitcoin-notifier
+pip install Bitcoin-Price
+pip install DeSW-Bitcoin
+pip install django-bitcoin
+pip install dj-bitcoin
+pip install quantworks-bitcoin
+pip install rpc-bitcoin
+pip install mercado-bitcoin
+pip install polyglot-bitcoin
+pip install python-bitcoin
+pip install theta
+pip install git-theta
+pip install theta-alkasm
+pip install streamlit-theta
+pip install theta-etl
+pip install theta-irt
+pip install theta-obsrv
+pip install theta-py
+pip install theta-cloud-sdk
+pip install theta-star-pathplan
+pip install theta-star-xhx-wjzh
+pip install thetaexif
+pip install pythetastar
+pip install triton-qml
+pip install gymnasium-cartpole-swingup
+pip install DutchDraw
+pip install runtheta
+pip install templ
+pip install pyqcas
+pip install thetakde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
