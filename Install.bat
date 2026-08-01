@@ -1027,6 +1027,7 @@ apt install -y qterminal
 apt install -y qtermwidget
 apt install -y qtkeychain
 apt install -y qtutilities
+apt install -y qtxdg-tools
 apt install -y avrdude
 apt install -y await
 apt install -y awesome
