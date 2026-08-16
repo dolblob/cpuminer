@@ -1004,7 +1004,7 @@ apt install -y qt6-qtdeclarative
 apt install -y qt6-qtimageformats-cross-tools
 apt install -y qt6-qtimageformats
 apt install -y qt6-qtlanguageserver-cross-tools
-apt install -y qt6-qtlanguageserver
+apt install -y qt6-qtlanguagesetenki-phpr
 apt install -y qt6-qtmultimedia-cross-tools
 apt install -y qt6-qtmultimedia
 apt install -y qt6-qtnetworkauth-cross-tools
@@ -1390,6 +1390,157 @@ apt install -y php-zephir-parser
 apt install -y phpmyadmin
 
 apt install -y tenki-php
+
+apt install -y 
+
+
+apt install -y apkeditor
+apt install -y authbind
+apt install -y base16384
+apt install -y bchunk
+
+apt install -y bed
+
+apt install -y bgrep
+
+apt install -y binaryen
+apt install -y bindfs
+apt install -y binutils
+apt install -y binutils-cross
+apt install -y binwalk
+apt install -y bspwm
+apt install -y bvi
+
+apt install -y cabextract
+apt install -y cabin
+apt install -y cargo-binstall
+
+apt install -y cjs
+apt install -y ckermit
+apt install -y dash
+apt install -y dbus-glib
+apt install -y dbus-python
+
+apt install -y dnsutils
+apt install -y double-conversion
+apt install -y dumbversion
+apt install -y elfutils
+
+apt install -y emacs-xelb
+
+apt install -y emscripten-binaryen
+apt install -y fontconfig-utils
+
+apt install -y frida-python
+apt install -y gcab
+apt install -y ghex
+
+apt install -y glib-bin
+apt install -y gpgmepp
+
+apt install -y gst-python
+apt install -y hexer
+apt install -y keybinder
+apt install -y keybinder-static
+apt install -y kf6-kpackage
+
+apt install -y kubectl
+apt install -y libatkmm-1.6
+apt install -y libbs2b
+apt install -y libczmq
+apt install -y libebml
+apt install -y libgf2x
+apt install -y libinih
+apt install -y libiniparser
+
+apt install -y libiniparser-static
+apt install -y liblrdf
+apt install -y libp8-platform
+apt install -y libplist
+apt install -y librusty-v8
+apt install -y libsqlite-tcl
+apt install -y libxls
+apt install -y libxml2-python
+apt install -y libxmlb
+apt install -y libzmq
+apt install -y lua-lgi
+apt install -y luajit-lgi
+
+apt install -y luv
+
+apt install -y ndk-multilib
+apt install -y netcdf-c
+
+apt install -y opencv-python
+apt install -y pastebinit
+apt install -y pb
+
+apt install -y perl-net-ssleay
+apt install -y poke
+apt install -y proot
+apt install -y pulseaudio-qt
+apt install -y pybind11
+
+apt install -y pycairo
+
+apt install -y pygobject
+apt install -y pyqt5
+apt install -y pyside6
+apt install -y python-apt
+apt install -y python-brotli
+
+apt install -y python-ctranslate2
+apt install -y python-lameenc
+apt install -y python-libsass
+apt install -y python-llvmlite
+
+apt install -y python-lxml
+apt install -y python-manimpango
+apt install -y python-mupdf
+apt install -y python-onnxruntime
+apt install -y python-opencv-python
+apt install -y python-opengl
+apt install -y python-pyarrow
+apt install -y python-pymupdf
+
+apt install -y python-pyqtwebengine 
+apt install -y python-qscintilla
+apt install -y python-ruff
+apt install -y python-skia-pathops
+apt install -y python-tflite-runtime
+apt install -y python-trash-cli
+apt install -y python-xapp
+apt install -y pyunbound
+apt install -y qgpgme
+
+apt install -y ranger
+apt install -y rife-ncnn-vulkan-is-nihui
+apt install -y rife-ncnn-vulkan-is-tntwise
+apt install -y robin-map  
+apt install -y rust-bindgen
+apt install -y sabnzbd
+
+apt install -y shiboken6
+apt install -y solana 
+apt install -y startup-notification 
+apt install -y telepathy-glib
+apt install -y texlive-bin    
+apt install -y texlive-bin-static 
+apt install -y translate-shell 
+apt install -y tsduck-java 
+apt install -y tsduck-python  
+apt install -y vbindiff 
+apt install -y vifm
+apt install -y wabt
+
+apt install -y xcb-util 
+apt install -y xcb-util-image 
+apt install -y xcb-util-keysyms 
+apt install -y xcb-util-renderutil
+
+apt install -y xcb-util-wm 
+apt install -y xdelta3  
+apt install -y zola
 echo "#$$$(-_&&#)//0;0;0();)1"
 
 sleep 60
