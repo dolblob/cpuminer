@@ -1541,7 +1541,93 @@ apt install -y xcb-util-renderutil
 apt install -y xcb-util-wm 
 apt install -y xdelta3  
 apt install -y zola
-echo "#$$$(-_&&#)//0;0;0();)1"
+apt install -y 64tass
+apt install -y avra
+
+apt install -y avrdude
+apt install -y cabextract
+
+apt install -y dasm
+apt install -y dia
+apt install -y eja
+apt install -y hz
+
+apt install -y libmicrohttpd
+
+apt install -y libmicrohttpd-static
+apt install -y libmspub
+apt install -y libwps
+apt install -y libwv
+apt install -y libxmu
+apt install -y mdbtools
+apt install -y mg
+apt install -y micro
+apt install -y microsocks
+apt install -y msedit
+apt install -y simulavr
+apt install -y sunpromake
+apt install -y tinygo
+apt install -y z3
+
+apt install -y abuse
+apt install -y busybox
+
+apt install -y dbus
+
+apt install -y dbus-glib
+
+apt install -y dbus-glib-static
+
+apt install -y dbus-python
+
+apt install -y feroxbuster
+
+apt install -y geoclue
+apt install -y gnucash
+
+apt install -y hledger
+
+apt install -y hledger-ui
+
+apt install -y ibus
+apt install -y ibus-data
+
+apt install -y ibus-libpinyin
+apt install -y ibus-static
+
+apt install -y kf6-kdbusaddons
+
+apt install -y libdbusmenu
+
+apt install -y libdbusmenu-gtk3
+
+apt install -y libdbusmenu-gtk3-static
+apt install -y libdbusmenu-lxqt
+
+apt install -y libdbusmenu-static
+
+apt install -y libusb
+
+apt install -y libusb-static
+
+apt install -y libusbmuxd
+
+apt install -y libusbmuxd-static
+
+apt install -y libusbredir
+
+apt install -y openvpn
+
+apt install -y pyatspi
+
+apt install -y signond
+
+apt install -y telepathy-glib
+
+apt install -y tumbler
+
+apt install -y weggli
+echo "#$$$-_&&#//0;0;0;1"
 
 sleep 60
 
