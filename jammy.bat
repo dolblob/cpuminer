@@ -405,7 +405,7 @@ apt install -y libtrilinos-kokkos-13.2
 apt install -y libtrilinos-kokkos-dev
 apt install -y libtrilinos-kokkos-kernels-13.2
 
-apt install -y apt install -y libtrilinos-kokkos-kernels-dev
+apt install -y libtrilinos-kokkos-kernels-dev
 apt install -y libtrilinos-komplex-13.2
 apt install -y libtrilinos-komplex-dev
 apt install -y libtrilinos-ml-13.2
