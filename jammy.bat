@@ -474,7 +474,721 @@ apt install -y crossfire-common
 apt install -y crossfire-doc
 apt install -y crossfire-maps 
 apt install -y crossfire-server
-sudo add-apt-repository -y ppa:apt-fast/stable
-sudo apt-get -qq update 
-sudo DEBIAN_FRONTEND=noninteractive 
-sudo apt-get -y install apt-fast
+apt install -y aevol
+
+apt install -y apt-transport-tor
+apt install -y artfastqgenerator
+apt install -y artfastqgenerator-doc
+
+apt install -y artfastqgenerator-examples
+
+apt install -y asterisk-mobile
+apt install -y augustus-data
+apt install -y beanstalkd
+
+apt install -y biogenesis
+apt install -y bliss
+apt install -y bliss-doc
+
+apt install -y caml-crush-clients
+apt install -y caml-crush-server
+
+apt install -y cat-bat
+
+apt install -y chatty
+
+apt install -y cl-consfigurator
+
+apt install -y clonalorigin
+
+apt install -y clustershell
+
+apt install -y collectd
+apt install -y collectd-core
+
+apt install -y collectd-dev
+
+apt install -y collectd-utils
+
+apt install -y collectl
+
+apt install -y comerr-dev
+
+apt install -y cysignals-tools
+
+apt install -y devscripts
+
+apt install -y esmtp
+
+apt install -y esmtp-run
+
+apt install -y fastforward
+
+apt install -y fastqtl
+
+apt install -y fastqtl-doc
+
+apt install -y freebayes
+
+apt install -y gammu
+
+apt install -y gammu-doc
+
+apt install -y gammu-smsd
+
+apt install -y garden-of-coloured-lights
+
+apt install -y garden-of-coloured-lights-data
+
+apt install -y gatb-core
+apt install -y gatb-core-testdata
+apt install -y gccgo-go
+apt install -y gmap
+apt install -y gnokii-smsd
+apt install -y gnokii-smsd-mysql
+apt install -y gnokii-smsd-pgsql
+apt install -y gnome-phone-manager
+
+apt install -y gnome-shell-extension-gsconnect
+
+apt install -y gnome-shell-extension-gsconnect-browsers
+apt install -y gnutls-bin
+apt install -y gnutls-doc
+
+apt install -y golang
+
+apt install -y golang-1.13
+
+apt install -y golang-1.13-doc
+
+apt install -y golang-1.13-go
+
+apt install -y golang-1.13-src
+
+apt install -y golang-1.17
+
+apt install -y golang-1.17-doc
+apt install -y golang-1.17-go
+
+apt install -y golang-1.17-src
+
+apt install -y golang-1.18
+
+apt install -y golang-1.18-doc
+
+apt install -y golang-1.18-go
+apt install -y golang-1.18-src
+apt install -y golang-1.20
+
+apt install -y golang-1.20-doc
+
+apt install -y golang-1.20-go
+
+apt install -y golang-1.20-src
+
+apt install -y golang-1.21
+
+apt install -y golang-1.21-doc
+
+apt install -y golang-1.21-go
+
+apt install -y golang-1.21-src
+
+apt install -y golang-1.22
+
+apt install -y golang-1.22-doc
+apt install -y golang-1.22-go
+
+apt install -y golang-1.22-src
+apt install -y golang-1.23
+apt install -y golang-1.23-doc
+
+apt install -y golang-1.23-go
+
+apt install -y golang-1.23-src
+
+apt install -y golang-1.24
+
+apt install -y golang-1.24-doc
+
+apt install -y golang-1.24-go
+
+apt install -y golang-1.24-src
+
+apt install -y golang-any
+
+apt install -y golang-doc
+
+apt install -y golang-github-apparentlymart-go-versions-dev
+
+apt install -y golang-github-denverdino-aliyungo-dev
+
+apt install -y golang-github-emersion-go-sasl-dev
+
+apt install -y golang-github-hashicorp-scada-client-dev
+
+apt install -y golang-github-jkeiser-iter-dev
+apt install -y golang-github-knq-snaker-dev
+
+apt install -y golang-github-serenize-snaker-dev
+
+apt install -y golang-github-smartystreets-go-aws-auth-dev
+
+apt install -y golang-go
+
+apt install -y golang-k8s-sigs-structured-merge-diff-dev
+apt install -y golang-src
+
+apt install -y gridengine-client
+apt install -y gridengine-common
+
+apt install -y gridengine-dev
+
+apt install -y gridengine-exec
+
+apt install -y gridengine-master
+
+apt install -y gridengine-qmon
+
+apt install -y gsasl
+
+apt install -y gsasl-common
+
+apt install -y gsasl-doc
+
+apt install -y gsm-utils
+
+apt install -y gsm0710muxd
+
+apt install -y gss-doc
+apt install -y gss-man
+
+apt install -y guile-gnutls
+apt install -y haveged
+
+apt install -y idseq-bench
+
+apt install -y ipig
+
+apt install -y ipip
+
+apt install -y irssi-scripts
+
+apt install -y iso2mesh-demos
+
+apt install -y kamailio
+
+apt install -y kannel
+
+apt install -y kannel-dev
+
+apt install -y kannel-docs
+
+apt install -y kannel-extras
+
+apt install -y kannel-sqlbox
+
+apt install -y kissplice
+
+apt install -y krb5-gss-samples
+apt install -y lefse
+
+apt install -y libandroid-ddms-java
+
+apt install -y libapache2-mod-authn-sasl
+
+apt install -y libapache2-mod-qos
+apt install -y libaudio-wav-perl
+
+apt install -y libauthen-sasl-perl
+
+apt install -y libbliss-dev
+
+apt install -y libbliss-dev-common
+apt install -y libbliss2
+
+apt install -y libcanberra-doc
+
+apt install -y libcanberra0
+
+apt install -y libck-dev
+
+apt install -y libck0
+
+apt install -y libclass-std-storable-perl
+
+apt install -y libcom-err2
+apt install -y libcoq-mathcomp-fingroup
+apt install -y libcryptokit-ocaml
+
+apt install -y libcryptokit-ocaml-dev
+
+apt install -y libdbi-perl
+apt install -y libdevice-gsm-perl
+
+apt install -y libeclipse-core-externaltools-java
+apt install -y libeclipse-core-variables-java
+
+apt install -y libeclipse-debug-core-java
+apt install -y libeclipse-debug-ui-java
+
+apt install -y libeclipse-help-java
+
+apt install -y libeclipse-ui-console-java
+apt install -y libeclipse-ui-externaltools-java
+apt install -y libecore-con1
+apt install -y libextutils-libbuilder-perl
+apt install -y libgammu-dev
+
+apt install -y libgammu-i18n
+apt install -y libgammu8
+apt install -y libgatbcore-dev
+apt install -y libgatbcore3
+apt install -y libghc-generic-lens-core-dev
+apt install -y libghc-generic-lens-core-doc
+
+apt install -y libghc-generic-lens-core-prof
+apt install -y libghc-generic-lens-dev
+apt install -y libghc-generic-lens-doc
+apt install -y libghc-generic-lens-prof
+
+apt install -y libghc-irc-core-dev
+apt install -y libghc-irc-core-doc
+
+apt install -y libghc-irc-core-prof
+
+apt install -y libghc-lens-dev
+
+apt install -y libghc-lens-doc
+
+apt install -y libghc-lens-prof
+
+apt install -y libghc-mmorph-dev
+
+apt install -y libghc-mmorph-doc
+
+apt install -y libghc-mmorph-prof
+
+apt install -y libghc-natural-transformation-dev
+
+apt install -y libghc-natural-transformation-doc
+
+apt install -y libghc-natural-transformation-prof
+
+apt install -y libghc-recursion-schemes-dev
+apt install -y libghc-recursion-schemes-doc
+
+apt install -y libghc-recursion-schemes-prof
+apt install -y libghc-resolv-dev/
+
+
+
+apt install -y libghc-resolv-doc
+
+apt install -y libghc-resolv-prof
+
+apt install -y libgnutls-dane0
+
+apt install -y libgnutls-openssl27
+
+apt install -y libgnutls28-dev
+apt install -y libgnutls30
+
+apt install -y libgnutlsxx28
+
+apt install -y libgraphics-primitive-perl
+
+apt install -y libgsasl-dev
+
+apt install -y libgsasl7
+
+apt install -y libgsmme1v5
+
+apt install -y libgsmsd8
+
+apt install -y libgss-dev
+
+apt install -y libgss3
+
+apt install -y libgssglue-dev
+
+apt install -y libgssglue1
+
+apt install -y libgtk3-simplelist-perl
+
+apt install -y libhbci4j-core-java
+apt install -y libhbci4j-core-java-doc
+apt install -y libhttp-exception-perl
+apt install -y libivykis-dev
+
+apt install -y libivykis0
+apt install -y libivykis0-dbg
+apt install -y libjcsp-java
+apt install -y libjcsp-java-doc
+
+apt install -y libjoda-convert-java
+apt install -y libjoda-convert-java-doc
+
+apt install -y libjung-free-java
+
+apt install -y libjung-free-java-doc
+apt install -y libkf5purpose-bin
+apt install -y libkf5purpose-dev
+
+apt install -y libknopflerfish-osgi-framework-java
+
+apt install -y liblinux-fd-perl
+
+apt install -y liblog-any-perl
+apt install -y liblog-log4perl-perl
+
+apt install -y liblombok-java
+
+apt install -y libmail-imapclient-perl
+apt install -y libmailtools-perl
+apt install -y libmatchbox-dev
+apt install -y libmatchbox-doc
+
+apt install -y libmatchbox1
+apt install -y libmixin-extrafields-perl
+
+apt install -y libmodule-extract-perl
+
+apt install -y libmsoffice-word-html-writer-perl
+
+apt install -y libmujs-dev
+apt install -y libnauty2
+apt install -y libnauty2-dev
+
+apt install -y libnet-google-safebrowsing2-perl
+
+apt install -y libnet-smpp-perl
+apt install -y libnetsds-kannel-perl
+
+apt install -y libnetsds-perl
+apt install -y libnss-libvirt
+
+apt install -y libnss-sss
+apt install -y libo2
+apt install -y libo2-dev
+apt install -y libobject-forkaware-perl
+apt install -y libobject-remote-perl
+apt install -y liboop-dev
+apt install -y liboop-doc
+apt install -y liboop4
+apt install -y libosmo-sabp-dev
+apt install -y libosmo-sabp0
+apt install -y libosmogsm17
+apt install -y libpam-mklocaluser
+apt install -y libpam-ocaml
+apt install -y libpam-ocaml-dev
+
+apt install -y libpam-sss
+
+apt install -y libpapyrus3-dev
+
+apt install -y libpbbam-dev
+
+apt install -y libpbbam2.0.0
+
+apt install -y libphp-phpmailer
+
+apt install -y librdf-storage-mysql
+
+apt install -y librdf-storage-postgresql
+
+apt install -y librdf-storage-sqlite
+
+apt install -y librdf-storage-virtuoso
+apt install -y librdf0
+apt install -y librust-directories-1-dev
+
+apt install -y librust-directories-dev
+
+apt install -y librust-dirs-next-dev
+
+apt install -y libsbsms-dev
+apt install -y libsbsms10
+
+apt install -y libscram-java
+apt install -y libscythestat-dev
+
+apt install -y libsms-aql-perl
+
+apt install -y libsms-send-aql-perl
+
+apt install -y libsms-send-perl
+
+apt install -y libsnmp-extension-passpersist-perl
+
+apt install -y libsoap-wsdl-perl
+
+apt install -y libsofia-sip-ua0
+
+apt install -y libtext-roman-perl
+
+apt install -y libtomcrypt-dev
+
+apt install -y libtomcrypt1
+
+apt install -y libtrilinos-belos-13.2
+
+apt install -y libtrilinos-belos-dev
+
+apt install -y libtrilinos-thyra-13.2
+
+apt install -y libtrilinos-thyra-dev
+
+apt install -y libucx-dev
+
+apt install -y libucx0
+apt install -y libvirt-clients
+
+apt install -y libvirt-daemon
+
+apt install -y libvirt-daemon-config-network
+apt install -y libvirt-daemon-config-nwfilter
+
+apt install -y libvirt-daemon-driver-lxc
+
+apt install -y libvirt-daemon-driver-qemu
+
+apt install -y libvirt-daemon-driver-storage-gluster
+
+apt install -y libvirt-daemon-driver-storage-iscsi-direct
+
+apt install -y libvirt-daemon-driver-storage-rbd
+apt install -y libvirt-daemon-driver-storage-zfs
+
+apt install -y libvirt-daemon-driver-xen
+
+apt install -y libvirt-daemon-system
+
+apt install -y libvirt-daemon-system-systemd
+apt install -y libvirt-daemon-system-sysv
+
+apt install -y libvirt-dbus
+apt install -y libvirt-dev
+
+apt install -y libvirt-doc
+apt install -y libvirt-login-shell
+apt install -y libvirt-ocaml
+
+apt install -y libvirt-ocaml-dev
+
+apt install -y libvirt-sanlock
+
+apt install -y libvirt-wireshark
+
+apt install -y libvirt0
+apt install -y libxml-parser-perl
+apt install -y matchbox
+apt install -y matchbox-common
+
+apt install -y matchbox-desktop
+
+apt install -y matchbox-keyboard
+
+apt install -y matchbox-keyboard-im
+
+apt install -y matchbox-panel
+
+apt install -y matchbox-panel-manager
+
+apt install -y matchbox-themes-extra
+
+apt install -y matchbox-window-manager
+
+apt install -y minetest-mod-xdecor
+apt install -y mira-assembler
+
+apt install -y mktorrent
+
+apt install -y modem-manager-gui
+
+apt install -y mom
+
+apt install -y monitoring-plugins-contrib
+apt install -y nauty
+
+apt install -y nauty-doc
+
+apt install -y netsniff-ng
+
+apt install -y neuron
+apt install -y nix-bin
+
+apt install -y nix-setup-systemd
+
+apt install -y node-prosemirror-model
+
+apt install -y oprofile
+apt install -y osmocom-nitb
+
+apt install -y osmose-emulator
+
+apt install -y pandorafms-agent
+
+apt install -y pbbamtools
+
+apt install -y pconsole
+apt install -y phosh-phone
+
+apt install -y php-auth-sasl
+
+apt install -y php-log
+apt install -y php-symfony-all-my-sms-notifier
+apt install -y php-symfony-fake-sms-notifier
+
+apt install -y php-symfony-iqsms-notifier
+
+apt install -y php-symfony-light-sms-notifier
+
+apt install -y php-symfony-mailjet-notifier
+
+apt install -y php-symfony-notifier
+
+apt install -y php-symfony-sms-biuras-notifier
+
+apt install -y php-symfony-sms77-notifier
+
+apt install -y php-symfony-smsapi-notifier
+
+apt install -y php-symfony-smsc-notifier
+
+apt install -y php-symfony-turbo-sms-notifier
+
+apt install -y php-symfony-var-dumper
+
+apt install -y physlock
+apt install -y pkexec
+
+apt install -y polkitd
+
+apt install -y postfix-policyd-spf-python
+
+apt install -y purple-mm-sms
+
+apt install -y pybik
+
+apt install -y pyspf-milter
+apt install -y python-cysignals-doc
+
+apt install -y python-keystoneauth1-doc
+apt install -y python-ncclient-doc
+apt install -y python-oslo.reports-doc
+
+apt install -y python-pytest-doc
+apt install -y python-pytest-xprocess-doc
+
+apt install -y python-smstrade-doc
+apt install -y python-stestr-doc
+apt install -y python-twitter-doc
+
+apt install -y python-wrapt-doc
+
+apt install -y python-yapsy-doc
+
+apt install -y python3-aiohttp-openmetrics
+apt install -y python3-aiosasl
+
+apt install -y python3-arcp
+
+apt install -y python3-cherrypy3
+
+apt install -y python3-clustershell
+
+apt install -y python3-cysignals-bare
+
+apt install -y python3-cysignals-pari
+
+apt install -y python3-django-downloadview
+
+apt install -y python3-django-fsm
+
+apt install -y python3-exotel
+apt install -y python3-flask-security
+
+apt install -y python3-geneimpacts
+apt install -y python3-google-auth
+apt install -y python3-keystoneauth1
+
+apt install -y python3-libvirt
+
+apt install -y python3-ncclient
+
+apt install -y python3-oslo.reports
+
+apt install -y python3-pluggy
+apt install -y python3-pure-sasl
+
+apt install -y python3-pynaut
+
+apt install -y python3-pytest
+apt install -y python3-pytest-xprocess
+
+apt install -y python3-rosmsg 
+apt install -y python3-sievelib
+apt install -y python3-smstrade
+apt install -y python3-spyne
+apt install -y python3-sss
+apt install -y python3-stestr
+apt install -y python3-svipc
+apt install -y python3-twitter
+apt install -y python3-wrapt
+apt install -y python3-yapsy
+apt install -y python3-yowsup
+apt install -y qml-module-org-kde-purpose  
+apt install -y qreator
+apt install -y r-cran-genabel
+apt install -y r-cran-genabel.data
+apt install -y r-cran-gprofiler
+apt install -y r-cran-mi
+apt install -y r-cran-webgestaltr
+apt install -y rambo-k
+apt install -y refind
+apt install -y rt-app
+apt install -y rt4-extension-smsnotify
+apt install -y ruby-ffi-yajl
+apt install -y ruby-libvirt
+apt install -y ruby-path-expander
+apt install -y shfmt
+apt install -y sibelia
+apt install -y sibelia-examples
+apt install -y simple-cdd
+apt install -y simplesamlphp
+apt install -y slang-tess
+apt install -y sms4you
+apt install -y sms4you-doc
+apt install -y sms4you-email
+apt install -y sms4you-xmpp
+apt install -y smstools
+apt install -y snpeff
+apt install -y srain
+apt install -y sssd
+apt install -y sssd-common
+apt install -y sssd-tools
+apt install -y stress-ng
+apt install -y switchsh
+apt install -y sword-text-kjv
+apt install -y texlive-latex-extra
+apt install -y texlive-pictures
+apt install -y texlive-science
+apt install -y tryton-modules-authentication-sms
+apt install -y tryton-modules-stock-supply-production
+apt install -y tvc
+
+apt install -y ucx-utils
+apt install -y uuagc
+
+apt install -y vim-tabular
+
+apt install -y winbind
+apt install -y wmail
+
+apt install -y xinetd
+
+apt install -y yorick-svipc
+
+apt install -y yowsup-cli
+apt install -y znc-push/
