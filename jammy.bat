@@ -1191,4 +1191,309 @@ apt install -y xinetd
 apt install -y yorick-svipc
 
 apt install -y yowsup-cli
-apt install -y znc-push/
+apt install -y znc-push
+apt install -y adcli
+apt install -y apacheds
+
+apt install -y balsa
+
+apt install -y curl
+
+apt install -y dcap-tunnel-krb
+
+apt install -y fetchmail
+
+apt install -y freeradius
+
+apt install -y freeradius-krb5
+
+apt install -y fusiondirectory
+
+apt install -y golang-github-dpotapov-go-spnego-dev
+
+apt install -y golang-gopkg-jcmturner-gokrb5.v5-dev
+
+apt install -y gosa
+
+apt install -y gosa-plugin-mit-krb5
+
+apt install -y gss-doc
+
+apt install -y gss-man
+
+apt install -y gss-ntlmssp
+
+apt install -y gss-ntlmssp-dev
+
+apt install -y heimdal-clients
+
+apt install -y heimdal-dev
+
+apt install -y heimdal-docs
+
+apt install -y heimdal-kcm
+
+apt install -y heimdal-kdc
+
+apt install -y heimdal-multidev
+
+apt install -y heimdal-servers
+
+apt install -y inetutils-telnet
+
+apt install -y inetutils-telnetd
+
+apt install -y john
+
+apt install -y krb5-admin-server
+
+apt install -y krb5-auth-dialog
+
+apt install -y krb5-config
+
+apt install -y krb5-doc
+
+apt install -y krb5-gss-samples
+
+apt install -y krb5-k5tls
+apt install -y krb5-kdc
+
+apt install -y krb5-kdc-ldap
+
+apt install -y krb5-kpropd
+
+apt install -y krb5-locales
+
+apt install -y krb5-multidev
+
+apt install -y krb5-otp
+
+apt install -y krb5-pkinit
+
+apt install -y krb5-strength
+
+apt install -y krb5-sync-plugin
+
+apt install -y krb5-sync-tools
+
+apt install -y krb5-user
+
+apt install -y kstart
+
+apt install -y libapache2-mod-auth-kerb
+
+apt install -y libapache2-mod-authn-sasl
+
+apt install -y libapacheds-i18n-java
+
+apt install -y libapacheds-java
+
+apt install -y libapacheds-kerberos-codec-java
+
+apt install -y libasn1-8-heimdal
+
+apt install -y libauthen-krb5-admin-perl
+
+apt install -y libauthen-krb5-perl
+
+apt install -y libauthen-krb5-simple-perl
+
+apt install -y libauthen-simple-kerberos-perl
+apt install -y libauthen-simple-perl
+apt install -y libcurl3-gnutls
+
+apt install -y libcurl3-nss
+
+apt install -y libcurl4
+apt install -y libcurl4-doc
+
+apt install -y libcurl4-gnutls-dev
+
+apt install -y libcurl4-nss-dev
+
+apt install -y libcurl4-openssl-dev
+
+apt install -y libghc-curl-dev
+
+apt install -y libghc-curl-doc
+
+apt install -y libghc-curl-prof
+
+apt install -y libgss-dev
+
+apt install -y libgss3
+
+apt install -y libgssapi-krb5-2
+
+apt install -y libgssapi-perl
+
+apt install -y libgssapi3-heimdal
+
+apt install -y libgssglue-dev
+
+apt install -y libgssglue1
+
+apt install -y libgssrpc4
+
+apt install -y libhcrypto4-heimdal
+
+apt install -y libhdb9-heimdal
+
+apt install -y libheimbase1-heimdal
+
+apt install -y libheimdal-kadm5-perl
+
+apt install -y libheimntlm0-heimdal
+
+apt install -y libhx509-5-heimdal
+
+apt install -y libk5crypto3
+
+apt install -y libkadm5clnt-mit12
+
+apt install -y libkadm5clnt7-heimdal
+
+apt install -y libkadm5srv-mit12
+
+apt install -y libkadm5srv8-heimdal
+apt install -y libkafs0-heimdal
+
+apt install -y libkdb5-10
+
+apt install -y libkdc2-heimdal
+
+apt install -y libkrad-dev
+
+apt install -y libkrad0
+
+apt install -y libkrb5-26-heimdal
+
+apt install -y libkrb5-3
+
+apt install -y libkrb5-dbg
+
+apt install -y libkrb5-dev
+
+apt install -y libkrb5support0
+
+apt install -y liblwp-authen-negotiate-perl
+
+apt install -y libnet-remctl-perl
+
+apt install -y libotp0-heimdal
+
+apt install -y libpam-afs-session
+
+apt install -y libpam-heimdal
+
+apt install -y libpam-krb5
+
+apt install -y libpam-krb5-migrate-heimdal
+
+apt install -y libpam-krb5-migrate-mit
+
+apt install -y libpam-mklocaluser
+
+apt install -y libpam-ocaml
+
+apt install -y libpam-ocaml-dev
+
+apt install -y libpam-pkcs11
+
+apt install -y libpam-shishi
+
+apt install -y libremctl-dev
+
+apt install -y libremctl1
+
+apt install -y libroken18-heimdal
+
+apt install -y libsasl2-2
+
+apt install -y libsasl2-modules-gssapi-heimdal
+
+apt install -y libsasl2-modules-gssapi-mit
+
+apt install -y libshisa-dev
+
+apt install -y libshisa0
+
+apt install -y libshishi-dev
+
+apt install -y libshishi0
+
+apt install -y libsl0-heimdal
+
+apt install -y libwind0-heimdal
+
+apt install -y libzephyr4
+
+apt install -y libzephyr4-krb5
+apt install -y mariadb-plugin-gssapi-client
+
+apt install -y mariadb-plugin-gssapi-server
+
+apt install -y msktutil
+
+apt install -y nfs-kernel-server
+
+apt install -y openafs-client
+
+apt install -y openafs-krb5
+
+apt install -y php-remctl
+
+apt install -y python3-cccolutils
+
+apt install -y python3-kdcproxy
+
+apt install -y python3-kerberos
+
+apt install -y python3-pamela
+
+apt install -y python3-pyremctl
+
+apt install -y python3-requests-gssapi
+
+apt install -y python3-requests-kerberos
+
+apt install -y realmd
+
+apt install -y remctl-client
+
+apt install -y remctl-server
+
+apt install -y rsyslog-gssapi
+
+apt install -y ruby-net-ssh-krb
+
+apt install -y ruby-omniauth-kerberos
+
+apt install -y ruby-omniauth-multipassword
+
+apt install -y ruby-remctl
+
+apt install -y ruby-timfel-krb5-auth
+
+apt install -y shisa
+
+apt install -y shishi
+
+apt install -y shishi-common
+
+apt install -y shishi-doc
+
+apt install -y shishi-kdc
+
+apt install -y sssd-ad-common
+
+apt install -y sssd-kcm
+
+apt install -y sssd-krb5
+
+apt install -y sssd-krb5-common
+
+apt install -y zephyr-server
+
+apt install -y zephyr-server-krb5
+
