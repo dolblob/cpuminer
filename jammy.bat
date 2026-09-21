@@ -1207,8 +1207,6 @@ apt install -y freeradius
 
 apt install -y freeradius-krb5
 
-apt install -y fusiondirectory
-
 apt install -y golang-github-dpotapov-go-spnego-dev
 
 apt install -y golang-gopkg-jcmturner-gokrb5.v5-dev
@@ -1495,5 +1493,226 @@ apt install -y sssd-krb5-common
 
 apt install -y zephyr-server
 
-apt install -y zephyr-server-krb5
+apt install -y tryton-client
+apt install -y tryton-modules-account
+apt install -y tryton-modules-account-asset
+apt install -y tryton-modules-account-be
+
+apt install -y tryton-modules-account-credit-limit
+
+apt install -y tryton-modules-account-de-skr03
+apt install -y tryton-modules-account-deposit
+
+apt install -y tryton-modules-account-dunning
+
+apt install -y tryton-modules-account-dunning-email
+
+apt install -y tryton-modules-account-dunning-fee
+
+apt install -y tryton-modules-account-dunning-letter
+
+apt install -y tryton-modules-account-es
+
+apt install -y tryton-modules-account-eu
+
+apt install -y tryton-modules-account-fr
+
+apt install -y tryton-modules-account-fr-chorus
+
+apt install -y tryton-modules-account-invoice
+
+apt install -y tryton-modules-account-invoice-history
+
+apt install -y tryton-modules-account-invoice-line-standalone
+
+apt install -y tryton-modules-account-invoice-stock
+
+apt install -y tryton-modules-account-payment
+
+apt install -y tryton-modules-account-payment-clearing
+
+apt install -y tryton-modules-account-payment-sepa
+apt install -y tryton-modules-account-payment-sepa-cfonb
+
+apt install -y tryton-modules-account-product
+
+apt install -y tryton-modules-account-statement
+
+apt install -y tryton-modules-account-statement-rule
+
+apt install -y tryton-modules-account-stock-anglo-saxon
+
+apt install -y tryton-modules-account-stock-continental
+
+apt install -y tryton-modules-account-stock-landed-cost
+
+apt install -y tryton-modules-account-stock-landed-cost-weight
+
+apt install -y tryton-modules-account-tax-rule-country
+
+apt install -y tryton-modules-all
+
+apt install -y tryton-modules-analytic-account
+
+apt install -y tryton-modules-analytic-invoice
+
+apt install -y tryton-modules-analytic-purchase
+
+apt install -y tryton-modules-analytic-sale
+
+apt install -y tryton-modules-authentication-sms
+
+apt install -y tryton-modules-bank
+
+apt install -y tryton-modules-carrier
+
+apt install -y tryton-modules-carrier-percentage
+
+apt install -y tryton-modules-carrier-weight
+
+apt install -y tryton-modules-commission
+
+apt install -y tryton-modules-commission-waiting
+
+apt install -y tryton-modules-company
+
+apt install -y tryton-modules-company-work-time
+
+apt install -y tryton-modules-country
+
+apt install -y tryton-modules-currency
+
+apt install -y tryton-modules-customs
+
+apt install -y tryton-modules-dashboard
+
+apt install -y tryton-modules-edocument-uncefact
+
+apt install -y tryton-modules-edocument-unece
+
+apt install -y tryton-modules-google-maps
+
+apt install -y tryton-modules-ldap-authentication
+
+apt install -y tryton-modules-notification-email
+
+apt install -y tryton-modules-party
+
+apt install -y tryton-modules-party-relationship
+
+apt install -y tryton-modules-party-siret
+
+apt install -y tryton-modules-product
+
+apt install -y tryton-modules-product-attribute
+
+apt install -y tryton-modules-product-classificatio
+
+apt install -y tryton-modules-product-classification-taxonomic
+
+apt install -y tryton-modules-product-cost-fifo
+
+apt install -y tryton-modules-product-cost-history
+
+apt install -y tryton-modules-product-measurements
+
+apt install -y tryton-modules-product-price-list
+
+apt install -y tryton-modules-production
+
+apt install -y tryton-modules-production-routing
+
+apt install -y tryton-modules-production-work
+
+apt install -y tryton-modules-project
+
+apt install -y tryton-modules-project-invoice
+apt install -y tryton-modules-project-plan
+apt install -y tryton-modules-project-revenue
+
+apt install -y tryton-modules-purchase
+
+apt install -y tryton-modules-purchase-invoice-line-standalone
+
+apt install -y tryton-modules-purchase-request
+
+apt install -y tryton-modules-purchase-shipment-cost
+
+apt install -y tryton-modules-sale
+
+apt install -y tryton-modules-sale-advance-payment
+
+apt install -y tryton-modules-sale-complaint
+
+apt install -y tryton-modules-sale-credit-limit
+
+apt install -y tryton-modules-sale-extra
+
+apt install -y tryton-modules-sale-invoice-grouping
+
+apt install -y tryton-modules-sale-opportunity
+
+apt install -y tryton-modules-sale-price-list
+
+apt install -y tryton-modules-sale-promotion
+
+apt install -y tryton-modules-sale-shipment-cost
+
+apt install -y tryton-modules-sale-shipment-grouping
+
+apt install -y tryton-modules-sale-stock-quantity
+apt install -y tryton-modules-sale-subscription
+
+apt install -y tryton-modules-sale-supply
+
+apt install -y tryton-modules-sale-supply-drop-shipment
+apt install -y tryton-modules-stock
+
+apt install -y tryton-modules-stock-forecast
+
+apt install -y tryton-modules-stock-inventory-location
+
+apt install -y tryton-modules-stock-location-sequence
+
+apt install -y tryton-modules-stock-lot
+
+apt install -y tryton-modules-stock-lot-sled
+
+apt install -y tryton-modules-stock-package
+
+apt install -y tryton-modules-stock-package-shipping
+
+apt install -y tryton-modules-stock-package-shipping-dpd
+
+apt install -y tryton-modules-stock-package-shipping-ups
+
+apt install -y tryton-modules-stock-product-location
+
+apt install -y tryton-modules-stock-shipment-cost
+
+apt install -y tryton-modules-stock-shipment-measurements)
+
+apt install -y tryton-modules-stock-split
+
+apt install -y tryton-modules-stock-supply
+
+apt install -y tryton-modules-stock-supply-day
+
+apt install -y tryton-modules-stock-supply-forecast
+
+apt install -y tryton-modules-stock-supply-production
+
+apt install -y tryton-modules-timesheet
+
+apt install -y tryton-modules-timesheet-cost
+
+apt install -y tryton-modules-web-user
+
+apt install -y tryton-proteus
+
+apt install -y tryton-server
+
+apt install -y tryton-server-doc
+  
+
 
