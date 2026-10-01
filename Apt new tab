@@ -62,7 +62,7 @@ echo "${RED}Installing Apt-fast${NORMAL}"
 echo $Done
 
 echo "${RED}Installing day2day packages${NORMAL}"
- apt-get install ncdu tmux irssi tree rar unrar zip unzip htop atop p7zip-full neovim vnstati bat
+ apt-get install ncdu tmux irssi tree zip unzip htop atop p7zip-full neovim vnstati bat
 mkdir -p ~/.local/bin
 ln -s /usr/bin/batcat ~/.local/bin/bat
 
